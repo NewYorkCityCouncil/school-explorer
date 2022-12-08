@@ -12,7 +12,7 @@ botocore==1.12.71
 branca==0.3.1
 bz2file==0.98
 Cartopy==0.17.0
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 Cheetah==2.4.4
 click==6.7
